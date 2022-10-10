@@ -55,6 +55,7 @@ a.logo {
 
 #main-container {
   margin:0 auto;
+  width:90%;
   max-width:1300px;
   padding:20px;
 }
