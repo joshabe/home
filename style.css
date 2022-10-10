@@ -18,6 +18,10 @@ body {
   font-family:editorsnote;
 }
 
+h1, h2, h3, h4 {
+  margin-bottom:20px;
+}
+
 p {
   font-size:24px;
   margin-bottom:30px;
@@ -40,9 +44,13 @@ a:hover {
 }
 
 a.logo {
-  height:300px;
-  width:300px;
-  border: none !important;
+  border:none !important;
+  text-decoration:none;
+}
+
+.logo img {
+  height:127px;
+  width:132px;
 }
 
 #main-container {
