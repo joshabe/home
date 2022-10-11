@@ -10,12 +10,12 @@
 
 @font-face {
   font-family: editorsnote;
-  src: url(/font/editorsnote.ttf);
+  src: url("");
 }
 
 body {
   background:#fff;
-  font-family:editorsnote;
+  font-family:"editorsnote";
 }
 
 h1, h2, h3, h4 {
